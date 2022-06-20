@@ -1,1 +1,1 @@
-readme for pyhton
+python scripts for learning
